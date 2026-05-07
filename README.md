@@ -1,9 +1,14 @@
 Hi 👋, I'm Maly Rosenstein
-Skills
-Programming Languages
+
+
+**Skills
+**
+**Programming Languages
+**
 Python • C# • Java • JavaScript • TypeScript
 
-Frontend
+**Frontend
+**
 HTML • CSS • React • React Query • Styled Components • Bootstrap • MUI
 
 Backend
