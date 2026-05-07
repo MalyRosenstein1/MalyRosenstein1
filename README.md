@@ -1,7 +1,7 @@
-Hi 👋, I'm Maly Rosenstein
+#Hi 👋, I'm Maly Rosenstein
 
 
-Skills
+#Skills
 
 Programming Languages
 
