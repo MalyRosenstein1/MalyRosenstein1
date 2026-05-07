@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Maly Rosenstein
+Skills
+Programming Languages
+Python • C# • Java • JavaScript • TypeScript
 
-<!--
-**MalyRosenstein1/MalyRosenstein1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend
+HTML • CSS • React • React Query • Styled Components • Bootstrap • MUI
 
-Here are some ideas to get you started:
+Backend
+Node.js • Express.js • .NET • ADK • LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases
+SQL Server • PostgreSQL • MongoDB • BigQuery
+
+DevOps & Tools
+Git • AWS • GCP • Docker • Kubernetes • Linux • Postman • Swagger
+
+AI Development Tools
+Cursor • Claude Code • GitHub Copilot • n8n
