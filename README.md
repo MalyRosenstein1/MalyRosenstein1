@@ -30,3 +30,4 @@ Cursor • Claude Code • GitHub Copilot • n8n
 ### Connect with Me
 ### Email: maly05271@gmail.com
 ### Phone: 0527163340
+### LinkedIn: https://www.linkedin.com/in/maly-rosenstein-328913395/
