@@ -1,4 +1,4 @@
-Hi 👋, I'm Maly Rosenstein
+#Hi 👋, I'm Maly Rosenstein
 
 
 Skills
@@ -26,3 +26,7 @@ Git • AWS • GCP • Docker • Kubernetes • Linux • Postman • Swagger
 AI Development Tools
 
 Cursor • Claude Code • GitHub Copilot • n8n
+
+Connect with Me
+Email: maly05271@gmail.com
+Phone: 0527163340
