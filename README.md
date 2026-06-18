@@ -1,32 +1,32 @@
-#Hi 👋, I'm Maly Rosenstein
+ #  Hi 👋, I'm Maly Rosenstein
 
 
-Skills
+### Skills
 
-Programming Languages
+ ### Programming Languages
 
 Python • C#  • C++ •Java • JavaScript • TypeScript •  Assembly (MIPS)
 
-Frontend
+### Frontend
 
 HTML • CSS • React • React Query • Styled Components • Bootstrap • MUI
 
-Backend
+### Backend
 
 Node.js • Express.js • .NET • ADK • LangChain
 
-Databases
+### Databases
 
 SQL Server • PostgreSQL • MongoDB • BigQuery
 
-DevOps & Tools
+### DevOps & Tools
 
 Git • AWS • GCP • Docker • Kubernetes • Linux • Postman • Swagger
 
-AI Development Tools
+### AI Development Tools
 
 Cursor • Claude Code • GitHub Copilot • n8n
 
-Connect with Me
-Email: maly05271@gmail.com
-Phone: 0527163340
+### Connect with Me
+### Email: maly05271@gmail.com
+### Phone: 0527163340
