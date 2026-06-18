@@ -28,6 +28,6 @@ Git • AWS • GCP • Docker • Kubernetes • Linux • Postman • Swagger
 Cursor • Claude Code • GitHub Copilot • n8n
 
 ### Connect with Me
-click here to send me email
+[click here to send me email](mailto:@maly05271@gmail.com)  
 ### Phone: 0527163340
-### LinkedIn: https://www.linkedin.com/in/maly-rosenstein-328913395/
+[Linkedin](mailto:@https://www.linkedin.com/in/maly-rosenstein-328913395/)  
