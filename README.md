@@ -27,8 +27,7 @@ Git • AWS • GCP • Docker • Kubernetes • Linux • Postman • Swagger
 
 Cursor • Claude Code • GitHub Copilot • n8n
 
-### 🤝 Connect with Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maly-rosenstein-328913395/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maly05271@gmail.com)
-[![Phone Badge](https://img.shields.io/badge/-Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972522144815)
+### Connect with Me
+[click here to send me email](mailto:maly05271@gmail.com)
+### Phone: 0527163340
+[Linkedin](https://www.linkedin.com/in/maly-rosenstein-328913395/)
